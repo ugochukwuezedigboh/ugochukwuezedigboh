@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi+there!;I'm+Ugochukwu;Welcome+to+my+Digital+Space;📊+Data+Analyst;🤖+AI+Enthusiast;✈️+Aviation+Analytics;🌍+Climate+Analytics" alt="Typing SVG" />
 </p>
 
-
 # 👋 Hi there, I'm Ugochukwu Ezedigboh
 
 <div align="center">
@@ -90,7 +89,7 @@ I'm a **Data Analyst** actively evolving my career through advanced analytics an
 
 ---
 
-### 📫 Let’s Collaborate
+### 📫 Let's Collaborate
 
 I'm open to roles or projects at the intersection of:
 - Data analytics & business intelligence
