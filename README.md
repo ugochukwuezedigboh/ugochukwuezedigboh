@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=👋+Hi+there!;I'm+Ugochukwu;Welcome+to+my+Digital+Space;📊+Data+Analyst;🤖+AI+Enthusiast;✈️+Aviation+Analytics;🌍+Climate+Analytics" alt="Typing SVG" />
 </p>
 
-# 👋 Hi there, I'm Ugochukwu Ezedigboh
+# 👋 I'm Ugochukwu Ezedigboh
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ugochukwu-ezedigboh">
@@ -12,8 +12,8 @@
   <a href="mailto:ugochukwu.ezedigboh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/32eef2b5-9b00-4097-8da3-06fbb47dccec">
-    <img src="https://img.shields.io/badge/Credly-Verify_Badge-007A87?style=for-the-badge&logo=credly&logoColor=white" />
+  <a href="https://www.credly.com/users/ugochukwu-ezedigboh">
+    <img src="https://img.shields.io/badge/Credly-View_Badges-007A87?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </div>
 
