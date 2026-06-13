@@ -1,7 +1,7 @@
 <!-- Header with dynamic typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=👋+Hi+there;I'm+Ugochukwu;Welcome+to+my+Digital+Space;📊+Data+Analyst;🤖+AI+Enthusiast;✈️+Aviation+Analytics;🌍+Climate+Analytics" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
+</a>
 # 👋 Hi there, I'm Ugochukwu Ezedigboh
 
 <div align="center">
