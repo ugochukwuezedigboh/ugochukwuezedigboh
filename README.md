@@ -1,6 +1,6 @@
 <!-- Header with dynamic typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ugochukwu+Ezedigboh;Data+Analyst;m+Turning+Data+into+Actionable+Insights+m;Aviation+%26+Climate+Analytics;3MTT+Cohort+Fellow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ugochukwu+Ezedigboh;Data+Analyst;m+Turning+Data+into+Actionable+Insights;Aviation+%26+Climate+Analytics;3MTT+Cohort+Fellow" alt="Typing SVG" />
 </div>
 
 ---
