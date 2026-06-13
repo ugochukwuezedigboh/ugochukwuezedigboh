@@ -1,16 +1,9 @@
 <!-- Header with dynamic typing effect -->
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugochukwuezedigboh&show_icons=true&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugochukwuezedigboh&theme=radical&hide_border=true" width="45%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ugochukwu+Ezedigboh;Data+Analyst;Turning+Data+into+Actionable+Insights;Aviation+%26+Environmental+Analytics;3MTT+Cohort+Member" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ugochukwuezedigboh&theme=radical&no-frame=true&row=1&column=7" width="95%" />
-</div>
-
-# 👋 I'm Ugochukwu Ezedigboh
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ugochukwu-ezedigboh">
