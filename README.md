@@ -1,6 +1,6 @@
 <!-- Header with dynamic typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hello+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=👋+Hi+there%3B+I'm+Ugochukwu%3B+Welcome+to+my+Digital+Space%3B+📊+Data+Analyst%3B+🤖+AI+Enthusiast%3B+✈️+Aviation+Analytics%3B+🌍+Climate+Analytics" alt="Typing SVG" />
 </p>
 
 # 👋 Hi there, I'm Ugochukwu Ezedigboh
