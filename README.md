@@ -75,7 +75,16 @@ I'm a **Data Analyst** actively evolving my career through advanced analytics an
 
 ---
 
-### 📁 Featured Project
+### 📁 Featured Projects
+
+#### [🎓 StudyLoop](https://github.com/ugochukwuezedigboh/StudyLoop)
+*Lecture & meeting notes AI — turns any recording or document into a full study pack*
+
+- **Stack:** Python, Streamlit, Google Gemini API
+- **Impact:** Audio/document → transcript → organized summary, key insights, and adjustable practice questions, exportable as Markdown or PDF
+- **Live demo:** [study-loop.streamlit.app](https://study-loop.streamlit.app)
+
+⭐ *Check out the repo and feel free to open issues or contribute!*
 
 #### [🛡️ SentryFlow AI](https://github.com/ugochukwuezedigboh/sentryflow-ai)
 *Anonymous civic intelligence & community incident reporting platform for Enugu State*
